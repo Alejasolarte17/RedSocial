@@ -3,6 +3,7 @@
     <body>
 
       <a> Cambio prueba </a>
+      <a> Cambio prueba2 </a>
 
 
 	<?php include('navbar.php'); ?>
