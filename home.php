@@ -1,6 +1,10 @@
 <?php include('header.php'); ?>    
 <?php include('session.php'); ?>    
     <body>
+
+      <a> Cambio prueba </a>
+
+
 	<?php include('navbar.php'); ?>
 			<div id="masthead">  
 				<div class="container">
