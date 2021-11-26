@@ -1,7 +1,10 @@
 <?php include('index_header.php'); ?>
 			<?php include('dbcon.php'); ?>
     <body>
-		<a>AQUI MODIFIQUE</a>
+		<a>AQUI MODIFIQUE ALEJANDRA</a>
+
+		<a>Aqui modifico EduarS</a>
+
         <div class="container">
             <!-- Codrops top bar -->
             <div class="codrops-top">
